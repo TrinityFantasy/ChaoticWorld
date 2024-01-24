@@ -65,5 +65,3 @@ Finally, The bifurcation map is ready to be plotted using "ListPlot":
 ```
  ListPlot[flatlist]
 ```
-
-> ![](C:\Users\pulfy\Desktop\QQ截图20240124080632.png)
